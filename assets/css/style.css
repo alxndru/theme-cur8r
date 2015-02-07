@@ -247,10 +247,11 @@ div.right h2 .typcn {
 }
 div.right h3 {
   border-bottom: 1px solid #464748;
-  font-weight: 700;
-  padding: 10px 0 10px 0;
+	padding: 10px 0 10px 0;
   font-size: 1rem;
   line-height: 1.5rem;
+	color: #ffffff;
+	font-style: italic;
 }
 div.right p {
   color: #ffffff;
